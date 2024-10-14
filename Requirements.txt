@@ -1,0 +1,4 @@
+spacy==2.3.5
+pyresparser==1.0.6
+pdfminer.six==20201018
+tqdm==4.64.0
